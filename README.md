@@ -16,8 +16,6 @@ Anmol Shah</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs**
-
 - 📫 How to reach me **shahanmol81@gmail.com**
 
 
